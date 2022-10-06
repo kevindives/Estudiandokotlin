@@ -76,6 +76,7 @@ class MainActivity : AppCompatActivity() {
         exampleForEach(name)
         printsCarsSeats(cars)
         cleanCode.showPartsOfHouse(parts)
+        hackerRank.comparateAnagram(query ,dictionary)
 
     }
 
